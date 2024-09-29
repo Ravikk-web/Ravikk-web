@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Kant Kispotta</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwc2pzbWM2OHNrenV0cWhyM3d0bWNqamNjaTBjeGR2Z2Y5cHV1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwc2pzbWM2OHNrenV0cWhyM3d0bWNqamNjaTBjeGR2Z2Y5cHV1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikk-web&label=Profile%20views&color=0e75b6&style=flat" alt="ravikk-web" /> </p>
 
