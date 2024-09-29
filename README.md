@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ravi Kant Kispotta</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwc2pzbWM2OHNrenV0cWhyM3d0bWNqamNjaTBjeGR2Z2Y5cHV1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwc2pzbWM2OHNrenV0cWhyM3d0bWNqamNjaTBjeGR2Z2Y5cHV1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikk-web&label=Profile%20views&color=0e75b6&style=flat" alt="ravikk-web" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikk-web" alt="ravikk-web" /></a> </p>
 
-- 🔭 I’m currently working on **3D portfolio**
+- 🔭 I’m currently working on **React-three 3D portfolio**
 
 - 🌱 I’m currently learning **React-Three and Docker**
 
